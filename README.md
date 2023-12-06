@@ -1,5 +1,5 @@
 # Muster_in_Zeitreihen_erkennen
-Quellcode zum [Praxis-Artikel](https://www.heise.de/select/ix/2024/1/2324807564079299856) von Dr. Roland Pleger, erschienen im iX-Magazin [Ausgabe 1/2024](https://www.heise.de/select/ix/2024/1).
+Jupyter Notebook zum [Praxis-Artikel](https://www.heise.de/select/ix/2024/1/2324807564079299856) von Dr. Roland Pleger, erschienen im iX-Magazin [Ausgabe 1/2024](https://www.heise.de/select/ix/2024/1).
 
 # iX-tract
 - Um Vorhersagen zu erstellen, gilt es, in der Vergangenheit Elemente zu finden, die die Zukunft beeinflussen. Dabei helfen statistische Verfahren.
